@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iexaecooda.truckpaintingservices.uk/sitemap.xml
